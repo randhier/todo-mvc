@@ -25,7 +25,7 @@ public class FeatureTest
 
     @AfterClass
     public static void after(){
-//        driver.quit();
+        driver.quit();
     }
 
     @Test
